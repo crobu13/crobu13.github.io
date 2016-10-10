@@ -1,0 +1,22 @@
+/*style.css*/
+#title{
+	width : 350px;
+	height : 150px;
+}
+body{
+	background-color: #1A1A1A;
+}	
+
+#menu{
+	float; right;
+	margin: 0 0 0 350px;
+}
+ #maincontent{
+  float: both;
+  text-align: center;
+  
+ }
+ #footer{
+	 text-align: center;
+	 
+ }
